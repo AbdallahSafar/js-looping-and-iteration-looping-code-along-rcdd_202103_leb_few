@@ -13,7 +13,7 @@ writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
 function countDown(n)
 {
-  while(n!=0)
+  while(n!==0)
   {
     console.console.log((n));
     n--;
