@@ -18,4 +18,5 @@ function countDown(n)
     console.log(n);
     n--;
   }
+  console.log(0);
 }
