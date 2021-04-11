@@ -9,3 +9,13 @@ function writeCards(names,ev)
   return array;
 }
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
+
+
+function countDown(n)
+{
+  while(n!=0)
+  {
+    console.console.log((n));
+    n--;
+  }
+}
